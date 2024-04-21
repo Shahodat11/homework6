@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+.card1{
+    width: 512.66px;
+    height: 300.38px;
+    gap: 0px;
+    border-radius: 10px;
+    opacity: 0px;
+}
+.cardss{
+    padding-top: 70px;
+    display: flex;
+    gap: 25px;
+}
+.h4{
+    width: 203.12px;
+    height: 87.59px;
+    top: -1px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: "Quicksand";
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28.8px;
+    text-align: left;
+    margin-top: 79px;
+    margin-left: 50px;
+}
+button{
+    font-family: "Quicksand";
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 15.6px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    width: 103.61px;
+    height: 31.59px;
+    top: 195.39px;
+    left: 50px;
+    gap: 0px;
+    border-radius: 4px;
+    margin-left: 50px;
+    margin-top: 30px;
+    border-radius: 4px;
+    background-color: #F53E32;
+    border: 2px solid #F53E32;
+    color: #fff;
+}
+button:hover{
+    background-color: #ccc;
+    color: #F53E32;
+    transition: all .3s linear;
+}

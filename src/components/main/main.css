@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.banner {
+    height: 800px;
+    padding: 50px;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Poppins";
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: #212529;
+    padding-top: 150px;
+}
+
+h1 {
+    font-family: "Poppins";
+    font-size: 55px;
+    font-weight: 600;
+    line-height: 68px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    width: 530.06px;
+    height: 146px;
+    top: -5px;
+    gap: 0px;
+    opacity: 0px;
+    padding-top: 20px;
+}
+
+p {
+    font-family: "Poppins";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 26.25px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    width: 488.04px;
+    height: 47.25px;
+    top: 2px;
+    gap: 0px;
+    opacity: 0px;
+    color: #7A7A7A;
+    padding-top: 27px;
+}
+.imgg{
+    margin-top: 60px;
+    margin-left: -955px;
+}
